@@ -1,0 +1,2 @@
+PS D:\UTN\Sintaxis\Sintaxis-k2054\00-CHelloworld> ./hello.exe
+Hello World!
